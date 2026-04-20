@@ -16,7 +16,7 @@ This project uses two main data sources:
   - Access date: 2026-04-18
   - Key fields: stock ticker, date, trading volume, stock return, price
 
-The selected stocks in this project are NVIDIA (NVDA), AMD, Tesla (TSLA), Apple (AAPL), and Palantir (PLTR).
+The selected stocks in this project are NVIDIA (NVDA), AMD, Tesla (TSLA), JPMorgan (JPM), and Palantir (PLTR).
 
 ## 3. Methods
 The main Python steps in this project are:
