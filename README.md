@@ -45,7 +45,7 @@ The main Python steps in this project are:
 6. Run the notebook from top to bottom.
 
 ## 6. Product Link / Demo
-- **GitHub Repository:** [Insert your GitHub repository link]
+- **GitHub Repository:** https://github.com/xuewenxi857-droid/xjtlu_acc102_individual-assignment-project
 - **Demo Video:** [Insert your demo video link]
 
 ## 7. Limitations & Next Steps
