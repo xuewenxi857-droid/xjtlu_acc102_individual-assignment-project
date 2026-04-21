@@ -36,12 +36,12 @@ The main Python steps in this project are:
 - Investor attention appears to be more useful for explaining market activity than explaining return performance.
 - The results suggest that online search behaviour may capture investor interest, but it does not necessarily predict returns clearly in this small sample.
 
-## 5. How to run 
+## 5. How to run
 1. Download or clone this repository.
-2. Open the notebook file in Jupyter Notebook.
-3. Install the required Python libraries if needed.
-4. Make sure the Google Trends data files are stored in the correct folder.
-5. If you want to reproduce the WRDS part, log in with your own WRDS account credentials.
+2. Make sure the Google Trends CSV files remain inside the `data` folder (The reading path specified in the code is a relative path, e.g. data/nvda_trends.csv.).
+3. Install the required Python libraries listed in `requirements.txt`.
+4. Open `Notebook.ipynb` from the repository root in Jupyter Notebook.
+5. If you want to reproduce the WRDS extraction step, use your own WRDS account credentials.
 6. Run the notebook from top to bottom.
 
 ## 6. Product Link / Demo
