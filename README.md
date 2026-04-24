@@ -46,7 +46,7 @@ The main Python steps in this project are:
 
 ## 6. Product Link / Demo
 - **GitHub Repository:** https://github.com/xuewenxi857-droid/xjtlu_acc102_individual-assignment-project
-- **Demo Video:** [Insert your demo video link]
+- **Demo Video:** https://video.xjtlu.edu.cn/Mediasite/MyMediasite/embedded/presentations/710c14ad0d2d46b99b9a3efd56fa40151d
 
 ## 7. Limitations & Next Steps
 This project has several limitations. First, the sample includes only five stocks, so the findings may not generalise to the wider market. Second, Google Trends provides relative search interest rather than absolute search volume. Third, the analysis uses simple statistical methods and does not control for many other market factors.
